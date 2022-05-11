@@ -1,0 +1,59 @@
+.tipfi-btn {
+    border-radius: 0.5em;
+    padding: 0.3em 2.5em;
+    font-size: 1.2em;
+    font-weight: 900;
+    color: #fff;
+    letter-spacing: 0.05em;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: darkslateblue;
+    /* text-shadow: -1px -1px 0 #000; */
+    /* Created with https://www.css-gradient.com */
+    /* background: #4BCBFE;
+    background: -webkit-linear-gradient(top left, #4BCBFE, #51E69A);
+    background: -moz-linear-gradient(top left, #4BCBFE, #51E69A);
+    background: linear-gradient(to bottom right, #4BCBFE, #51E69A); */
+
+    /* Created with https://www.css-gradient.com */
+    background: #C6DC98;
+    background: -webkit-linear-gradient(top left, #C6DC98, #13C555);
+    background: -moz-linear-gradient(top left, #C6DC98, #13C555);
+    background: linear-gradient(to bottom right, #C6DC98, #13C555);
+
+    /* purple-blue */
+    /* background: #B95299;
+    background: -webkit-linear-gradient(top left, #B95299, #1B8BF3);
+    background: -moz-linear-gradient(top left, #B95299, #1B8BF3);
+    background: linear-gradient(to bottom right, #B95299, #1B8BF3); */
+}
+
+#tabs-selector {
+    border: 1px solid gray;
+    background-color: #090021;
+    font-size: 0.9em;
+    vertical-align: middle;
+}
+
+#tabs-selector span:first-of-type {
+    padding-right: 3.5em;
+    cursor: pointer;
+}
+
+#tabs-selector span:nth-of-type(2) {
+    padding-left: 3.5em;
+    border-left: 1px solid gray;
+    cursor: pointer;
+}
+
+#tabs-selector ul li {
+    display: inline-block;
+}
+
+#share {
+    background-color: #e5ccfb;
+    color: #000;
+}
+
+.spacer {
+    padding-top: 2em;
+}
