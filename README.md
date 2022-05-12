@@ -16,7 +16,7 @@
     - No minimum: tip as much or as little as desired
     - Latest price feeds (Chainlink)
 - Pseudonymous tipping - no identifying user data stored in central storage
-- Tip anywhere, anytime (global guarantee)
+- Tip anywhere, anytime (global guarantee, 24/7)
     - Short, brandable domain, user login (Unstoppable Domains)
 - Tip to one or tip in batches (one-to-one or one-to-many addresses)
 - One button for many use cases
@@ -34,9 +34,10 @@
         - save & verify once, update anytime
     - 1 button, 1 account
         - Hassle Free: click & go 💨
-        - Easy Setup & Managemet: copy & paste code anywhere
+        - Easy Setup & Management: copy & paste code anywhere
         - Tailor to preferences (flexible / strict)
-            - only accept tips in certain currencies & networks, set min/max amts
+            - accept tips in certain currencies & networks, set min/max amts
+                - e.g. PoS, carbon-neutral blockchains only
             - or let tippers decide how & how much to tip
         - Multiple wallet support
             - add or switch between wallets
@@ -94,3 +95,22 @@
     <blockquote>&nbsp; A fictitious, made-up DAO of one <strong>🙋🏻‍♀️</strong><br>
     &nbsp; Coming soon to a CHAIN NEAR you! <strong>👀</strong><br></blockquote>
 </details>
+<br>
+
+## Dead End
+- Transak requires $30 minimum per transaction <br>
+$30 minimum tip is impractical for mass adoption.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src='./public/assets/img/tip-minimum.png' alt='Transak minimum tip' height='150'/>
+
+- Sending tips is against Transak's Terms of Service, unfortunately.<br>
+Transak requires that users "have control over the receiving wallet address" <br>
+
+<table>
+  <tr>
+    <th width='150'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src='./public/assets/img/tos.png' alt='Transak minimum tip' height='350'/><br></th>
+    <th style="text-align:left" width='150'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <video src="./public/assets/audio/fail.mp4" controls width='300'>
+  Your browser does not support the video tag.
+</video> </th>
+  </tr>
+  </table>
