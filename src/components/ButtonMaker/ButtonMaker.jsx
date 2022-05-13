@@ -3,6 +3,8 @@ import { useEffect, useState } from "react";
 import CodeEditor from '@uiw/react-textarea-code-editor';
 import './style.css';
 
+/* TODO: TipMe Button: [ 💁🏻‍♀️TipMe 💌 ] [ 👮TipMe🔖 ] */
+
 const ButtonMaker = ({  }) => {
 
     const [integrationType, setIntegrationType] = useState('SHARE');
@@ -24,7 +26,7 @@ const ButtonMaker = ({  }) => {
         return networkAndCurrencies.map((obj, i) => {
            if (obj.blockchain === network) {
                 return networkAndCurrencies[i].currencies.map(str => {
-                    return <option value={str}>{str}</option>
+                    return <option value={str === 'USDC' ? 'USD' : str}>{str}</option>
                 })
            }
         })                  

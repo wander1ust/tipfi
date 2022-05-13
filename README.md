@@ -53,7 +53,7 @@
 
 <br>
 
-## User Flow
+## 💻🖱&nbsp; User Flow
 - **STEP 1** - Customize button
     - Option #1<br>
         - Creator embeds one of: <br>
@@ -63,7 +63,9 @@
         - Creator shares: <br>
             - link to user profile page or doc within TipFi/TipMe dapp (URL, QR code)
         * Combining options 1 & 2 - OK (encouraged)<br>
-            - e.g. professional + personal<br>
+            - e.g. professional + personal
+    
+    <br>
 
 - **STEP 2** - View Analytics
     - Creator Dashboard<br>
@@ -74,20 +76,14 @@
 
 <br>
 
-## Template for Creators (TL;DR)
+## 🍥&nbsp; Template for Creators (TL;DR)
  <p></p><br>
- &nbsp;&nbsp;&nbsp; &nbsp; Like what you see? Leave a Tip! <strong>🧧</strong><br>
- &nbsp;&nbsp;&nbsp; &nbsp; <strong>TipFi 💰🧧</strong> (Donate)<p></p><br>
- &nbsp;&nbsp;&nbsp; ✄┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
- <p></p><br>
- &nbsp;&nbsp;&nbsp; &nbsp; Think you can do better? Leave a Tip! <strong>📝 📩</strong><br>
- &nbsp;&nbsp;&nbsp; &nbsp; <strong>TipMe 👮🔖</strong> (Tips to improve)<p></p><br>
- &nbsp;&nbsp;&nbsp; ✄┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
- <p></p><br>
- &nbsp;&nbsp;&nbsp; &nbsp; Wanna contribute but broke AF? Leave a Tip! 💖<br> 
- &nbsp;&nbsp;&nbsp; &nbsp; <strong>TipMe 💁🏻‍♀️💌</strong> (Like, Comment, Follow, Subscribe)<br>
- &nbsp;&nbsp;&nbsp; &nbsp; (+ join the BrokeAF DAO* <strong>😭</strong>)<p></p><br>
- &nbsp;&nbsp;&nbsp; ✄┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈<p></p><br>
+<img src='./public/assets/img/copy-template-1.png' alt='copy template 1' height='117' width='620'/><br>
+
+<img src='./public/assets/img/copy-template-2.png' alt='copy template 2' height='117' width='620'/><br>
+
+<img src='./public/assets/img/copy-template-3.png' alt='copy template 3' height='117' width='620'/>
+<p></p><br>
  
 <details>
     <summary> &nbsp;&nbsp; About #BrokeAFDAO 😭</strong></summary>
@@ -95,22 +91,44 @@
     <blockquote>&nbsp; A fictitious, made-up DAO of one <strong>🙋🏻‍♀️</strong><br>
     &nbsp; Coming soon to a CHAIN NEAR you! <strong>👀</strong><br></blockquote>
 </details>
+
 <br>
 
-## Dead End
-- Transak requires $30 minimum per transaction <br>
-$30 minimum tip is impractical for mass adoption.
+## ✅&nbsp; Transak Integration Demo
+
+#### </> Generate HTML
+Enter your wallet address, customize blockchain network & cryptocurrency options, and select integration type (Button / Widget).<br> 
+Copy the generated HTML code & paste it in your website, blog, or email.<p></p><br>
+<img src='./public/assets/img/demo-html.gif' alt='TipFi demo 1' height='500'/><br>
+
+#### 🖼 Generate CSS - Styling
+Choose a gradient color for your button.<br> 
+Copy the generated CSS code & paste it in your website, blog, or email.<p></p><br>
+<img src='./public/assets/img/demo-css.gif' alt='TipFi demo 2' height='500'/><br>
+
+#### ✔︎👉 Checkpoint: Transak integration test
+Click button to preview Transak integration.<p></p><br>
+<img src='./public/assets/img/demo-transak-integration.gif' alt='Transak Integration demo' height='500'/>
+
+<br>
+
+## ⛔️&nbsp; Dead End
+<!-- <h2> <span style='font-size:40px'>♚</span> Checkmate</h2> -->
+- Transak requires $30 minimum per transaction. <br>
+ $30 minimum tip is impractical for mass adoption.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src='./public/assets/img/tip-minimum.png' alt='Transak minimum tip' height='150'/>
 
-- Sending tips is against Transak's Terms of Service, unfortunately.<br>
-Transak requires that users "have control over the receiving wallet address" <br>
+<br>
+
+- Sending tips is against Transak's Terms of Service, unfortunately <strong>😕</strong><br>
+Transak users must "have control over the receiving wallet address". <br>
 
 <table>
   <tr>
-    <th width='150'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src='./public/assets/img/tos.png' alt='Transak minimum tip' height='350'/><br></th>
-    <th style="text-align:left" width='150'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <video src="./public/assets/audio/fail.mp4" controls width='300'>
+    <th width='350'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src='./public/assets/img/tos.png' alt='Transak minimum tip' width='370'/><br></th>
+    <th style="text-align:left" width='250'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <video src="https://user-images.githubusercontent.com/91639796/168200052-3be8045a-14ea-4430-af19-02a83835cb70.mp4" controls width='450'>
   Your browser does not support the video tag.
 </video> </th>
   </tr>
-  </table>
+</table>
