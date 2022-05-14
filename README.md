@@ -1,11 +1,22 @@
 # TipFi 💰🧧 + TipMe 💌
-<!-- Tipy, Tippy, Tippee -->
+
+## Installation 
+1. Clone this repository
+2. Run **`npm install`** to install all dependencies
+3. Run **`npm start`** to start the React app on localhost:3000
+
+<br>
+
+## Configure your environment
+Rename **`.env.example`** to **`.env`** and add your Transak Staging API key.
+
+<br>
 
 ## How It Works
 
 ### 💰 TipFi 💸 
 - Like Ko-fi + Buy Me A Coffee but P2P without an intermediary
-- No middleman (algorithmically trusted)
+- No middleman (algorithmically trusted, decentralized)
     - tips go straight to designated crypto wallet
     - tippee receives 100% of tips
     - all transactions verifiable on public ledger
@@ -15,7 +26,8 @@
     - Protocol/blockchain agnostic (unless restricted by user)
     - No minimum: tip as much or as little as desired
     - Latest price feeds (Chainlink)
-- Pseudonymous tipping 
+- Pseudonymous tipping
+    - tip like Secret Santa **🎅🏻**
     - user data stored securely(?) in decentralized storage
 - Tip anywhere, anytime (global guarantee, 24/7)
     - Short, brandable domain, user login (Unstoppable Domains)
@@ -117,7 +129,7 @@ Click on button to preview Transak integration.<p></p><br>
 <img src='./public/assets/img/demo-transak-integration.gif' alt='Transak Integration demo' height='500'/>
 
 #### *️⃣ Transak button in an app
-With the help of this handy-dandy Transak button generator, I was able to quickly customize and add a Transak button to my gift giving app, where gifters can buy crypto with fiat and then send crypto as a gift to another address **💸🎁**.
+With the help of this handy-dandy Transak button generator, I was able to quickly customize and add a Transak button to my <a href='https://llclick.com/1jgbnp71/git-readme-tipfi' target='_blank'>gifting app</a>, where gifters can buy crypto with fiat and then send crypto as a gift to a giftee's wallet address **💸🎁**.
 
 <img src='./public/assets/img/crypto-gift.png' alt='Transak button in app' height='500'/>
 
