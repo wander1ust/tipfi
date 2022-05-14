@@ -109,9 +109,11 @@ Rename **`.env.example`** to **`.env`** and add your Transak Staging API key.
 
 ## ✅&nbsp; Transak Integration Demo
 
-The following is a proof-of-concept demo that showcases fiat on-ramp integration with Transak for a P2P tipping app. However, to comply with Transak's ToS, the source code can be repurposed as a button/widget generator that allows users (webmasters, bloggers, creators, marketers, etc.) to design and customize their own Transak button, which they can add to their websites, blog posts, or emails.
+The following GIFs capture a proof-of-concept demo that showcases fiat on-ramp integration with Transak for a P2P tipping dapp. However, to comply with Transak's ToS, the source code of TipFi can be repurposed as a button/widget generator that gives Transak partners (webmasters, bloggers, creators, marketers, etc.) a tool to design and customize their own Transak button without needing to peruse the technical docs.
 
-Featuring vibrant, gradient colors and custom text with eye-catching designs, these buttons will capture the attention of any new user, spark interest, increase conversions, and promote crypto onboarding among even the most crypto-averse crowd.*
+By giving Transak partners a compact, UI friendly tool to customize and integrate Transak into their websites, apps, blogs, and emails with copy-paste-and-go code, the process of setting up shop to onboard fiat to crypto buyers becomes even faster and simpler. The generated result is a prettier, eye-catching, shareable button alternative to plain text link. Consistency in button design, including logo and color scheme, will also improve branding of Transak and Transak Partners (think Ko-fi, Buy Me a Coffee, and PayPal buttons + widgets). In fact, I just did a quick search and found that Buy Me a Coffee has its own snazzy <a href='https://www.buymeacoffee.com/brand' target='_blank'>button + widget maker</a>.
+
+Featuring vibrant, gradient colors and custom text with eye-catching designs, these buttons will capture the attention of any user, spark interest, increase conversions, and promote crypto onboarding among even the most crypto-averse crowd.*
 
 <h7>\*Disclaimer: No guarantee of results **😇**</h7><p></p>
 
@@ -155,6 +157,11 @@ Transak users must "have control over the receiving wallet address". <br>
 </video> </th>
   </tr>
 </table>
+
+<br>
+
+<h3 align="center">DISCLAIMER</h3>
+All company names are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them. All third party trademarks referenced in this project remain the property of their respective owners.
 
 <p></p><br>
 
