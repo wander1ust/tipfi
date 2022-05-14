@@ -15,7 +15,8 @@
     - Protocol/blockchain agnostic (unless restricted by user)
     - No minimum: tip as much or as little as desired
     - Latest price feeds (Chainlink)
-- Pseudonymous tipping - no identifying user data stored in central storage
+- Pseudonymous tipping 
+    - user data stored securely(?) in decentralized storage
 - Tip anywhere, anytime (global guarantee, 24/7)
     - Short, brandable domain, user login (Unstoppable Domains)
 - Tip to one or tip in batches (one-to-one or one-to-many addresses)
@@ -96,19 +97,29 @@
 
 ## ✅&nbsp; Transak Integration Demo
 
+The following is a proof-of-concept demo that showcases fiat on-ramp integration with Transak for a P2P tipping app. However, to comply with Transak's ToS, the source code can be repurposed as a button/widget generator that allows users (webmasters, bloggers, creators, marketers, etc.) to design and customize their own Transak button, which they can add to their websites, blog posts, or emails.
+
+Featuring vibrant, gradient colors and custom text with eye-catching designs, these buttons will capture the attention of any new user, spark interest, increase conversions, and promote crypto onboarding among even the most crypto-averse crowd.*
+
+<h7>\*Disclaimer: No guarantee of results **😇**</h7><p></p>
+
 #### </> Generate HTML
-Enter your wallet address, customize blockchain network & cryptocurrency options, and select integration type (Button / Widget).<br> 
-Copy the generated HTML code & paste it in your website, blog, or email.<p></p><br>
-<img src='./public/assets/img/demo-html.gif' alt='TipFi demo 1' height='500'/><br>
+Enter your wallet address, customize blockchain network & cryptocurrency options, and select integration type (Button / Widget). Copy the generated HTML code & paste it in your website, blog, or email.<p></p><br>
+<img src='./public/assets/img/demo-html.gif' alt='TipFi demo 1' height='500'/>
 
 #### 🖼 Generate CSS - Styling
 Choose a gradient color for your button.<br> 
 Copy the generated CSS code & paste it in your website, blog, or email.<p></p><br>
-<img src='./public/assets/img/demo-css.gif' alt='TipFi demo 2' height='500'/><br>
+<img src='./public/assets/img/demo-css.gif' alt='TipFi demo 2' height='500'/>
 
 #### ✔︎👉 Checkpoint: Transak integration test
-Click button to preview Transak integration.<p></p><br>
+Click on button to preview Transak integration.<p></p><br>
 <img src='./public/assets/img/demo-transak-integration.gif' alt='Transak Integration demo' height='500'/>
+
+#### *️⃣ Transak button in an app
+With the help of this handy-dandy Transak button generator, I was able to quickly customize and add a Transak button to my gift giving app, where gifters can buy crypto with fiat and then send crypto as a gift to another address **💸🎁**.
+
+<img src='./public/assets/img/crypto-gift.png' alt='Transak button in app' height='500'/>
 
 <br>
 
@@ -126,9 +137,13 @@ Transak users must "have control over the receiving wallet address". <br>
 
 <table>
   <tr>
-    <th width='350'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src='./public/assets/img/tos.png' alt='Transak minimum tip' width='370'/><br></th>
+    <th width='350'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src='./public/assets/img/tos.png' alt='Transak ToS' width='370'/><br></th>
     <th style="text-align:left" width='250'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <video src="https://user-images.githubusercontent.com/91639796/168200052-3be8045a-14ea-4430-af19-02a83835cb70.mp4" controls width='450'>
   Your browser does not support the video tag.
 </video> </th>
   </tr>
 </table>
+
+<p></p><br>
+
+<div align="center"><a href="https://llclick.com/060f5fry/git-readme-tipfi" target="_blank"><img alt="contact" src="public/assets/img/btn/contact.png" width="150px"/></a></div>
